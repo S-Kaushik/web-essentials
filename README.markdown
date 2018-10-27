@@ -1,10 +1,10 @@
 # What is this?
 
-This is currated collection of styles and components to allow you to quickly create high quality webpages and apps.
+This is a curated collection of styles and components to allow you to quickly create high quality webpages and apps.
 
 # Running the Styleguide
 
-## Prerequisits
+## Prerequisites
 
 One needs to have these installed first:
 
