@@ -25,9 +25,9 @@ $ make start
 $ make
 ```
 
-## Javascript?
+## JavaScript?
 
-The js is just for the styleguide itself. All shared javascript will be
+The js is just for the styleguide itself. All shared JavaScript will be
 published as private npm modules. Every project using the styleguide
 will use browserify to require only what the project needs.
 
